@@ -1,0 +1,90 @@
+* [33mcommit 524bbd97140162bc40bcbf30d211537eceafff89[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 21:42:30 2021 +0800
+[31m|[m 
+[31m|[m     [Alfianinda] - added static site
+[31m|[m 
+* [33mcommit cddf2b562ce34311416af084b0c221ac68e4f005[m[33m ([m[1;31morigin/master[m[33m)[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 21:23:24 2021 +0800
+[31m|[m 
+[31m|[m     [Alfianinda] - edited header
+[31m|[m 
+* [33mcommit 17607f11a4ec40f37566b8f1125e727c2446b708[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 14:08:11 2021 +0800
+[31m|[m 
+[31m|[m     edited readme
+[31m|[m 
+* [33mcommit 895af1540d691981871114d06336af8622c48faf[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 13:58:22 2021 +0800
+[31m|[m 
+[31m|[m     [Alfianinda] - edited readme
+[31m|[m 
+* [33mcommit 3f1faef972b05bf4456e1798284bda3818b718be[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 13:52:34 2021 +0800
+[31m|[m 
+[31m|[m     [Alfianinda] - added static site
+[31m|[m 
+* [33mcommit f0d6cba34dab040c310dd0e6f0d4436278af0e61[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 13:33:46 2021 +0800
+[31m|[m 
+[31m|[m     test
+[31m|[m 
+* [33mcommit 55ddbdfb7eaac1e3cfe53c32df2b509ac3603483[m
+[31m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[31m|[m Date:   Wed May 5 13:16:14 2021 +0800
+[31m|[m 
+[31m|[m     [Alfianinda] -  added static site
+[31m|[m   
+*   [33mcommit 29f7cb84c39ccfb7e02547ffea32a250b2cf631c[m
+[32m|[m[33m\[m  Merge: b68880f 08db635
+[32m|[m [33m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[32m|[m [33m|[m Date:   Wed May 5 13:00:58 2021 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     fixed conflict
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 08db63548a9dab6372ba06dae1a17e3cfc72ecae[m
+[32m|[m [33m|[m Author: alfianinda <ni.alfianinda@gmail.com>
+[32m|[m [33m|[m Date:   Wed May 5 11:31:43 2021 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     [Alfianinda] - added readme
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit a79c31d938c539fb92a16fd59cd02004ad1fe4ca[m
+[32m|[m   Author: alfianinda <ni.alfianinda@gmail.com>
+[32m|[m   Date:   Wed May 5 10:55:31 2021 +0800
+[32m|[m   
+[32m|[m       [Alfianinda] - init
+[32m|[m 
+* [33mcommit b68880f2793b12b812b11897ca5e919a508af789[m
+[33m|[m Author: Nur Inna Alfianinda <39892462+alfianinda@users.noreply.github.com>
+[33m|[m Date:   Wed May 5 12:14:48 2021 +0800
+[33m|[m 
+[33m|[m     Delete _config.yml
+[33m|[m 
+* [33mcommit 0bc48557c0f63c97f2af1f6ccb912a3c5451e483[m
+[33m|[m Author: Nur Inna Alfianinda <39892462+alfianinda@users.noreply.github.com>
+[33m|[m Date:   Wed May 5 12:14:24 2021 +0800
+[33m|[m 
+[33m|[m     Delete index.md
+[33m|[m 
+* [33mcommit 8ff6e0c8d923a2ef86232f4f61cb075daa8aa832[m
+[33m|[m Author: Nur Inna Alfianinda <39892462+alfianinda@users.noreply.github.com>
+[33m|[m Date:   Wed May 5 11:46:25 2021 +0800
+[33m|[m 
+[33m|[m     Create README.md
+[33m|[m 
+* [33mcommit c80bef669d6705a510b6d3a3f6349b469908e415[m
+[33m|[m Author: Nur Inna Alfianinda <39892462+alfianinda@users.noreply.github.com>
+[33m|[m Date:   Wed May 5 11:41:50 2021 +0800
+[33m|[m 
+[33m|[m     Create index.md
+[33m|[m 
+* [33mcommit 8aa54f217e7102622f2e057d182b4fcaf4579f85[m
+  Author: Nur Inna Alfianinda <39892462+alfianinda@users.noreply.github.com>
+  Date:   Wed May 5 11:41:32 2021 +0800
+  
+      Set theme jekyll-theme-slate
