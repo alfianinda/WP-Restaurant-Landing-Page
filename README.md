@@ -5,5 +5,5 @@
 
 > Company Landing Page Using Wordpress
 
-## visit static site version of this wordpress:
+## Visit static site version of this wordpress:
 https://alfianinda.github.io/WP-Restaurant-Landing-Page/
